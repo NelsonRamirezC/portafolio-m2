@@ -4,7 +4,7 @@
 
 ## LINK GITHUB PAGES
 
-(Deploy Github Pages)[https://nelsonramirezc.github.io/portafolio-m2/]
+[Deploy Github Pages](https://nelsonramirezc.github.io/portafolio-m2/)
 
 ### Comandos usados de git
 
