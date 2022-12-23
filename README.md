@@ -11,3 +11,5 @@
 #### git push origin main/master --> subimos los cambios al repositorio remoto (github)
 
 #### git clone (ruta repositorio remoto)
+
+#### git checkout -b feature/footer --> creamos rama para agregar un footer
