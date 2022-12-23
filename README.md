@@ -13,3 +13,11 @@
 #### git clone (ruta repositorio remoto)
 
 #### git checkout -b feature/footer --> creamos rama para agregar un footer
+
+#### git branch -d feature/footer ----> eliminalos rama que ya cumplió su función.
+
+#### git checkout (nombre_rama) ---> para cambiar de una rama a otra
+
+#### git branch --> nos permite ver las ramas locales
+
+#### git merge feature/footer --> desde una rama x (ejemplo main) fusionamos los cambios de una rama diferente
