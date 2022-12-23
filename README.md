@@ -6,6 +6,7 @@
 
 ### Comandos usados de git
 
-git init --> permite inicializar un repositorio local
-
+git add . --> agregamos los cambios al stage area.
+git commit -m "mensaje" confirmamos los cambios para versionarlos.
+git push origin main/master --> subimos los cambios al repositorio remoto (github)
 
