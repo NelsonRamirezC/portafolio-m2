@@ -1,3 +1,7 @@
 footer {
   color: white;
 }
+
+.custom-tooltip {
+  --bs-tooltip-bg: green;
+}
